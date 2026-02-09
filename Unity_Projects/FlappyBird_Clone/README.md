@@ -4,3 +4,6 @@ Zaman bazlı engel üretimi
 Trigger tabanlı skor sistemi
 Çarpışma algılama
 Temel UI ve game over / restart yönetimi
+
+## 🎮 Gameplay Video
+▶️[Oynanış videosunu bu linkten izleyebilirsiniz(Google Drive). --> https://drive.google.com/file/d/13CyppVf18MxLR1AQB-6rXvTS7w2sNE8w/view?usp=sharing
