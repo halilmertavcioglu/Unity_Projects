@@ -6,7 +6,7 @@
 - Level completion conditions
 
 ## 🎮 Gameplay Video
-▶️ [You can access the in-development gameplay visual via this link(Google Drive).](https://drive.google.com/file/d/1aC1DeiYQHART2BCA9uHkxh3D6TOzAde2/view?usp=sharing)
+▶️ [You can access the in-development gameplay visual via this link (Google Drive).](https://drive.google.com/file/d/1aC1DeiYQHART2BCA9uHkxh3D6TOzAde2/view?usp=sharing)
 
 ---
 
@@ -18,4 +18,4 @@
 - Seviye tamamlama koşulları
 
 ## 🎮 Oynanış Görseli
-▶️ [Oyunun yapım aşamasında olan görseline bu linkten ulaşabilirsiniz(Google Drive).](https://drive.google.com/file/d/1aC1DeiYQHART2BCA9uHkxh3D6TOzAde2/view?usp=sharing)
+▶️ [Oyunun yapım aşamasında olan görseline bu linkten ulaşabilirsiniz (Google Drive).](https://drive.google.com/file/d/1aC1DeiYQHART2BCA9uHkxh3D6TOzAde2/view?usp=sharing)
