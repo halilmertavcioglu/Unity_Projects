@@ -1,4 +1,16 @@
-## 🛠✂️Cut The Rope Oyununda Kullanılan Teknikler
+## 🛠✂️ Techniques Used in Cut the Rope
+- Rope mechanics implemented using Line Renderer and physics joints
+- Rope cutting interaction via mouse / touch input
+- Physics-based movement and momentum control
+- Collision and trigger systems
+- Level completion conditions
+
+## 🎮 Gameplay Video
+▶️ [You can access the in-development gameplay visual via this link(Google Drive).](https://drive.google.com/file/d/1aC1DeiYQHART2BCA9uHkxh3D6TOzAde2/view?usp=sharing)
+
+---
+
+## 🛠✂️ Cut The Rope Oyununda Kullanılan Teknikler
 - Line Renderer ve fizik joint’leri kullanılarak ip mekaniği
 - Mouse / touch input ile ip kesme etkileşimi
 - Fizik tabanlı hareket ve momentum kontrolü
@@ -6,4 +18,4 @@
 - Seviye tamamlama koşulları
 
 ## 🎮 Oynanış Görseli
-▶️ [Oyunun yapım aşamasında olan görseline bu linkten ulaşabilirsiniz.(Google Drive)](https://drive.google.com/file/d/1aC1DeiYQHART2BCA9uHkxh3D6TOzAde2/view?usp=sharing)
+▶️ [Oyunun yapım aşamasında olan görseline bu linkten ulaşabilirsiniz(Google Drive).](https://drive.google.com/file/d/1aC1DeiYQHART2BCA9uHkxh3D6TOzAde2/view?usp=sharing)
