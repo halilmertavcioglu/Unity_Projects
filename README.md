@@ -13,12 +13,5 @@ Projelerin odak noktası; oynanış mekanikleri, fizik sistemleri ve temiz kod y
 
 ## 🛠 Kullanılan Teknikler
 
-🪜 Doodle Jump
-Fizik tabanlı zıplama
-Dikey kamera takibi
-procedural platform üretimi
-Sonsuz seviye mantığı
-object pooling ve oyuncu yüksekliğine bağlı skor sistemi
-
 ## ⚠️ Not
 Klon projeler ticari amaçla yapılmamıştır. Sadece portföy / öğrenme amacıyla yapılmıştır.
