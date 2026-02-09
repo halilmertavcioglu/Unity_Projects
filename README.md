@@ -11,7 +11,5 @@ Projelerin odak noktası; oynanış mekanikleri, fizik sistemleri ve temiz kod y
 **BallBuster_Clone** - Tamamlandı
 **CutTheRope_Clone_Prototype** - Prototype / Devam Ediyor
 
-## 🛠 Kullanılan Teknikler
-
 ## ⚠️ Not
 Klon projeler ticari amaçla yapılmamıştır. Sadece portföy / öğrenme amacıyla yapılmıştır.
