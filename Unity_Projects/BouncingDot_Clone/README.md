@@ -8,7 +8,7 @@
 - Score management system and UI integration
 
 ## 🎮 Gameplay Video
-▶️ [You can access the gameplay video via this link(Google Drive).](https://drive.google.com/file/d/1xfAjT83al7aI5eE6sKr5-TQ_JTs098G-/view?usp=sharing)
+▶️ [You can access the gameplay video via this link (Google Drive).](https://drive.google.com/file/d/1xfAjT83al7aI5eE6sKr5-TQ_JTs098G-/view?usp=sharing)
 
 ---
 
@@ -22,4 +22,4 @@
 - Skor takibi
 
 ## 🎮 Oynanış Videosu
-▶️ [Oynanış videosuna bu linkten ulaşabilirsiniz(Google Drive).](https://drive.google.com/file/d/1xfAjT83al7aI5eE6sKr5-TQ_JTs098G-/view?usp=sharing)
+▶️ [Oynanış videosuna bu linkten ulaşabilirsiniz (Google Drive).](https://drive.google.com/file/d/1xfAjT83al7aI5eE6sKr5-TQ_JTs098G-/view?usp=sharing)
