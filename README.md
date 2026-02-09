@@ -12,20 +12,6 @@ Projelerin odak noktası; oynanış mekanikleri, fizik sistemleri ve temiz kod y
 **CutTheRope_Clone_Prototype** - Prototype / Devam Ediyor
 
 ## 🛠 Kullanılan Teknikler
-🐦 Flappy Bird
-Physics tabanlı hareket sistemi kullanılarak Rigidbody2D ve AddForce() ile zıplama mekaniği
-Zaman bazlı engel üretimi
-Trigger tabanlı skor sistemi
-Çarpışma algılama
-Temel UI ve game over / restart yönetimi 
-
-🔵 Bouncing Dot
-Rigidbody2D ve Collider2D ile fizik tabanlı zıplama
-Çarpışma sonrası yön değiştirme
-Hız kontrolü
-Dokunma girdisi algılama
-Skor takibi
-
 🎨 Color Switch
 Renk bazlı çarpışma mantığı
 tag ve layer sistemi
