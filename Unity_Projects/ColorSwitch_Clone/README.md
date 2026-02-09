@@ -7,7 +7,7 @@
 - Camera follow system
 
 ## 🎮 Gameplay Video
-▶️ [You can access the gameplay video via this link(Google Drive).](https://drive.google.com/file/d/1nZVlRq3ISgZqBnYv9die0z6UqTnWojB2/view?usp=sharing)
+▶️ [You can access the gameplay video via this link (Google Drive).](https://drive.google.com/file/d/1nZVlRq3ISgZqBnYv9die0z6UqTnWojB2/view?usp=sharing)
 
 ---
 
@@ -20,4 +20,4 @@
 - Kamera takip sistemi
 
 ## 🎮 Oynanış Videosu
-▶️ [Oynanış videosuna bu linkten ulaşabilirsiniz(Google Drive).](https://drive.google.com/file/d/1nZVlRq3ISgZqBnYv9die0z6UqTnWojB2/view?usp=sharing)
+▶️ [Oynanış videosuna bu linkten ulaşabilirsiniz (Google Drive).](https://drive.google.com/file/d/1nZVlRq3ISgZqBnYv9die0z6UqTnWojB2/view?usp=sharing)
