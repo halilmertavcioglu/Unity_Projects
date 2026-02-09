@@ -1,4 +1,4 @@
-✂️Cut the Rope
+🛠✂️Cut the Rope Oyununda Kullanılan Teknikler
 - Line Renderer ve fizik joint’leri kullanılarak ip mekaniği
 - Mouse / touch input ile ip kesme etkileşimi
 - Fizik tabanlı hareket ve momentum kontrolü
