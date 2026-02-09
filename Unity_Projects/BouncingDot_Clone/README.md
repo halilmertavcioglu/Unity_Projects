@@ -10,6 +10,7 @@
 ## 🎮 Gameplay Video
 ▶️ [You can access the gameplay video via this link(Google Drive).](https://drive.google.com/file/d/1xfAjT83al7aI5eE6sKr5-TQ_JTs098G-/view?usp=sharing)
 
+---
 
 ## 🛠🔵 Bouncing Dot Oyununda Kullanılan Teknikler
 
