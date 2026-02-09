@@ -1,5 +1,3 @@
-[English](#-techniques-used-in-bouncing-dot) | [Türkçe](#-bouncing-dot-oyununda-kullanılan-teknikler)
-
 ## 🛠🔵 Techniques Used in Bouncing Dot
 
 - Physics-based jumping using Rigidbody2D and Collider2D
