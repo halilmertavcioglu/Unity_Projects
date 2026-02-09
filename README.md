@@ -12,12 +12,6 @@ Projelerin odak noktası; oynanış mekanikleri, fizik sistemleri ve temiz kod y
 **CutTheRope_Clone_Prototype** - Prototype / Devam Ediyor
 
 ## 🛠 Kullanılan Teknikler
-🎨 Color Switch
-Renk bazlı çarpışma mantığı
-tag ve layer sistemi
-fizik tabanlı zıplama
-procedural engel rotasyonu
-Kamera takip sistemi
 
 🪜 Doodle Jump
 Fizik tabanlı zıplama
