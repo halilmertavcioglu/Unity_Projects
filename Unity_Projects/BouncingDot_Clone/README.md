@@ -4,6 +4,7 @@
 - Çarpışma sonrası yön değiştirme
 - Hız kontrolü
 - Dokunma girdisi algılama
+- Pulsating(büyüme-küçülme) arayüz animasyonu
 - Skor takibi
 
 ## 🎮 Oynanış Videosu
