@@ -1,6 +1,6 @@
 ## 🛠🪜 Doodle Jump Kullanılan Teknikler
-Fizik tabanlı zıplama
-Dikey kamera takibi
-procedural platform üretimi
-Sonsuz seviye mantığı
-object pooling ve oyuncu yüksekliğine bağlı skor sistemi
+- Fizik tabanlı zıplama
+- Dikey kamera takibi
+- Procedural platform üretimi
+- Sonsuz seviye mantığı
+- Object pooling ve oyuncu yüksekliğine bağlı skor sistemi
