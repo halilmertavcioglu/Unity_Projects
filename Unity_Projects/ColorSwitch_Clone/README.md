@@ -1,4 +1,5 @@
 ## 🛠🎨 Techniques Used in Color Switch
+
 - Color-based collision logic
 - Tag and layer system
 - Physics-based jumping
@@ -11,10 +12,11 @@
 ---
 
 ## 🛠🎨 Color Switch Oyununda Kullanılan Teknikler
+
 - Renk bazlı çarpışma mantığı
-- tag ve layer sistemi
-- fizik tabanlı zıplama
-- procedural engel rotasyonu
+- Tag ve layer sistemi
+- Fizik tabanlı zıplama
+- Procedural engel rotasyonu
 - Kamera takip sistemi
 
 ## 🎮 Oynanış Videosu
