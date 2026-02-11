@@ -5,7 +5,7 @@
 - Collision and trigger systems
 - Level completion conditions
 
-## 🎮 Gameplay Video
+## 🎮 Gameplay Preview
 ▶️ [You can access the in-development gameplay visual via this link (Google Drive).](https://drive.google.com/file/d/1aC1DeiYQHART2BCA9uHkxh3D6TOzAde2/view?usp=sharing)
 
 ---
