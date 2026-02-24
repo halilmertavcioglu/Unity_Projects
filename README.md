@@ -9,7 +9,8 @@ The main focus of these projects is to gain proficiency in the Unity game engine
 - **DoodleJump_Clone** – Completed  
 - **ColorSwitch_Clone** – Completed  
 - **BallBuster_Clone** – Completed  
-- **CutTheRope_Clone_Prototype** – Prototype / In Progress 
+- **CutTheRope_Clone_** – Completed
+- **DrawAndCollect_Clone** - Completed
 
 ## ⚠️ Note
 These clone projects were not developed for commercial purposes.  
@@ -28,7 +29,8 @@ Projelerin odak noktası; oynanış mekanikleri, fizik sistemleri ve temiz kod y
 - **DoodleJump_Clone** - Tamamlandı
 - **ColorSwitch_Clone** - Tamamlandı
 - **BallBuster_Clone** - Tamamlandı
-- **CutTheRope_Clone_Prototype** - Prototip / Devam Ediyor
+- **CutTheRope_Clone_** - Tamamlandı
+- **DrawAndCollect_Clone** - Tamamlandı
 
 ## ⚠️ Not
 Klon projeler ticari amaçla yapılmamıştır. Sadece portföy / öğrenme amacıyla yapılmıştır.
