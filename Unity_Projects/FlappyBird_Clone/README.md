@@ -8,6 +8,10 @@
 ## 🎮 Gameplay Video
 ▶️ [You can access the gameplay video via this link (Google Drive).](https://drive.google.com/file/d/13CyppVf18MxLR1AQB-6rXvTS7w2sNE8w/view?usp=sharing)
 
+## ⚠️ Note
+This project is a personal educational clone inspired by the original game. It is developed for learning purposes only and not for commercial use.
+
+
 ---
 
 ## 🛠🐦 Flappy Bird Oyununda Kullanılan Teknikler
@@ -19,3 +23,6 @@
 
 ## 🎮 Oynanış Videosu
 ▶️ [Oynanış videosuna bu linkten ulaşabilirsiniz (Google Drive).](https://drive.google.com/file/d/13CyppVf18MxLR1AQB-6rXvTS7w2sNE8w/view?usp=sharing)
+
+## ⚠️ Not
+Bu proje, orijinal oyundan esinlenerek eğitim amaçlı geliştirilmiş bir klon çalışmadır. Ticari amaç taşımamaktadır.
