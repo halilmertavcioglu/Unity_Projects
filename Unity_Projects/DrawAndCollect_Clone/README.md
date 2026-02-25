@@ -1,4 +1,4 @@
-## 🛠🔵 Techniques Used in Cut The Rope
+## 🛠🔵 Techniques Used in Draw And Collect
 
 - Physics-based rope system using HingeJoint2D and Rigidbody2D
 - Dynamic rope generation through iterative joint connections
@@ -11,11 +11,12 @@
 - Modular, component-based architecture
 
 ## 🎮 Gameplay Video
-[You can access the gameplay video via this link (Google Drive).](https://drive.google.com/file/d/11uuO91vgkk0F---daekkVKBkwFZcE2k5/view?usp=sharing)
+[You can access the gameplay video via this link (Google Drive).](https://drive.google.com/file/d/16RKABlJZ55CNeysmAjFWikqoZE6iKbtn/view?usp=drive_link)
 
 ---
 
-## 🛠🔵 Cut The Rope Oyununda Kullanılan Teknikler
+## 🛠🔵 Draw And Collect Oyununda Kullanılan Teknikler
+
 - Physics tabanlı ip sistemi (HingeJoint2D ve Rigidbody2D kullanımı)
 - Döngüsel eklem bağlantıları ile dinamik ip oluşturma
 - Raycast tabanlı ip kesme mekaniği
@@ -27,4 +28,4 @@
 - Modüler ve bileşen tabanlı mimari tasarım
 
 ## 🎮 Oynanış Videosu
-[Oynanış videosuna bu linkten ulaşabilirsiniz (Google Drive).](https://drive.google.com/file/d/11uuO91vgkk0F---daekkVKBkwFZcE2k5/view?usp=sharing)
+[Oynanış videosuna bu linkten ulaşabilirsiniz (Google Drive).](https://drive.google.com/file/d/16RKABlJZ55CNeysmAjFWikqoZE6iKbtn/view?usp=drive_link)
