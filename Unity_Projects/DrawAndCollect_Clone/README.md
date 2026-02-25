@@ -12,6 +12,9 @@
 ## 🎮 Gameplay Video
 [You can access the gameplay video via this link (Google Drive).](https://drive.google.com/file/d/16RKABlJZ55CNeysmAjFWikqoZE6iKbtn/view?usp=drive_link)
 
+## ⚠️ Note
+This project is a personal educational clone inspired by the original game. It is developed for learning purposes only and not for commercial use.
+
 ---
 
 ## 🛠🔵 Draw And Collect Oyununda Kullanılan Teknikler
@@ -27,3 +30,6 @@
 
 ## 🎮 Oynanış Videosu
 [Oynanış videosuna bu linkten ulaşabilirsiniz (Google Drive).](https://drive.google.com/file/d/16RKABlJZ55CNeysmAjFWikqoZE6iKbtn/view?usp=drive_link)
+
+## ⚠️ Not
+Bu proje, orijinal oyundan esinlenerek eğitim amaçlı geliştirilmiş bir klon çalışmadır. Ticari amaç taşımamaktadır.
