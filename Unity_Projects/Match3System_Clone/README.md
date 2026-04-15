@@ -7,17 +7,17 @@
 - ScriptableObjects for Data Architecture: Using ScriptableObjects to decouple game data (gem types, level goals) from the logic, allowing easy scalability.
 - Dynamic Board Refilling Logic: A custom algorithm to calculate empty spaces and spawn new elements in the correct sequence.
 
-🎮 Gameplay Video
+## 🎮 Gameplay Video
 ---
 
-⚠️ Note
+## ⚠️ Note
 This project is a personal educational clone inspired by the original game. It is developed for learning purposes only and not for commercial use.
 
-🛠🔵 Match 3 Oyununda Kullanılan Teknikler
+## 🛠🔵 Match 3 Oyununda Kullanılan Teknikler
 ---
 
-🎮 Oynanış Videosu
+## 🎮 Oynanış Videosu
 ---
 
-⚠️ Not
+## ⚠️ Not
 Bu proje, orijinal oyundan esinlenerek eğitim amaçlı geliştirilmiş bir klon çalışmadır. Ticari amaç taşımamaktadır.
