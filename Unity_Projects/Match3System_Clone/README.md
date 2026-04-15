@@ -1,4 +1,4 @@
-🛠🔵 Techniques Used in Match 3
+## 🛠🔵 Techniques Used in Match 3
 
 - Singleton Pattern Implementation: Centralized game management for global state persistence and seamless communication between game logic and UI.
 - Grid-Based Logic & 2D Coordinate Mapping: Managing 2D arrays to track, move, and validate object positions on a dynamic board.
