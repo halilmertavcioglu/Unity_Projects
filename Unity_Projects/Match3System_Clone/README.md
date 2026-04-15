@@ -13,6 +13,9 @@
 ## ⚠️ Note
 This project is a personal educational clone inspired by the original game. It is developed for learning purposes only and not for commercial use.
 
+
+---
+
 ## 🛠🔵 Match 3 Oyununda Kullanılan Teknikler
 
 - Singleton Pattern Uygulaması: Oyun durumunun korunması ve oyun mantığı ile arayüz (UI) arasındaki iletişimi kolaylaştıran merkezi yönetim yapısı.
