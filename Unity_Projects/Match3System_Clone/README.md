@@ -8,7 +8,7 @@
 - Dynamic Board Refilling Logic: A custom algorithm to calculate empty spaces and spawn new elements in the correct sequence.
 
 ## 🎮 Gameplay Video
----
+QQQ
 
 ## ⚠️ Note
 This project is a personal educational clone inspired by the original game. It is developed for learning purposes only and not for commercial use.
@@ -26,7 +26,7 @@ This project is a personal educational clone inspired by the original game. It i
 - Dinamik Tahta Yenileme Mantığı: Boşlukları hesaplayan ve yeni öğelerin doğru sırayla tahtaya dahil olmasını sağlayan özel algoritma.
 
 ## 🎮 Oynanış Videosu
----
+QQQ
 
 ## ⚠️ Not
 Bu proje, orijinal oyundan esinlenerek eğitim amaçlı geliştirilmiş bir klon çalışmadır. Ticari amaç taşımamaktadır.
