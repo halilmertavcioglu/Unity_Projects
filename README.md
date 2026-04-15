@@ -11,6 +11,7 @@ The main focus of these projects is to gain proficiency in the Unity game engine
 - **BallBuster_Clone** – Completed  
 - **CutTheRope_Clone_** – Completed
 - **DrawAndCollect_Clone** - Completed
+- **Match3_Clone** - Completed
 
 ## ⚠️ Note
 These clone projects were not developed for commercial purposes.  
@@ -31,6 +32,7 @@ Projelerin odak noktası; oynanış mekanikleri, fizik sistemleri ve temiz kod y
 - **BallBuster_Clone** - Tamamlandı
 - **CutTheRope_Clone_** - Tamamlandı
 - **DrawAndCollect_Clone** - Tamamlandı
+- **Match3_Clone** - Tamamlandı
 
 ## ⚠️ Not
 Klon projeler ticari amaçla yapılmamıştır. Sadece portföy / öğrenme amacıyla yapılmıştır.
