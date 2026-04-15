@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: b1da949974afd0743850e11ddd724706
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pirateUI_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 957
+        width: 174
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec4f10cb730bf147bbe2ffa103c7e55
+      internalID: -1177990071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 877
+        width: 136
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f197bf342028f4091d1e72e902e7c0
+      internalID: 1376043648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_5
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 19
+        width: 977
+        height: 1005
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be44780db1d3f54485055ed831cb736
+      internalID: -42510004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_8
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 882
+        width: 128
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd093177e12072e47934aee1973fcc43
+      internalID: 1122945797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_9
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 882
+        width: 129
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c8e1673486f8049885b5f6fd40e45f
+      internalID: -1409350814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_10
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 882
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b69cd0c90b78d44b1aaa0ec6997873
+      internalID: -773756753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_11
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 882
+        width: 129
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e10913f10676e4babcfdfe2c39e3e9
+      internalID: 17573676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_12
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 948
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c4c085c95df334694e7f34ece113c0
+      internalID: -552749216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 850
+        width: 167
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9ed571d850eff4192de3f9d2a3f8d3
+      internalID: -1193327732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_21
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 896
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856930123825f754590b93e324244c27
+      internalID: 628805344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_28
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 823
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9598f77ccacb94a9487e3ab4e36cc3
+      internalID: 1802782707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 737
+        width: 492
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1401789883199644be69800c3c159a6
+      internalID: 871293267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_33
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 754
+        width: 459
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f69996647e354a4795b81df027199d1
+      internalID: 1398794959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 579
+        width: 493
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17564665d75aff24b95b518d0b9b151a
+      internalID: -280430289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_36
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 545
+        width: 492
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b491aa57fd843a458d3c2aa93ea2cc5
+      internalID: 298918451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_38
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 359
+        width: 493
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640d0e3d650af3f42b02c02d893689c6
+      internalID: 1025435482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_39
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 359
+        width: 492
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a8e8a9e90194243a5616bfafa50a07
+      internalID: 713829918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 178
+        width: 492
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd626c146de4a84391fec53a31d9097
+      internalID: -1933832261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateUI_42
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 108
+        width: 494
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6050ef0d5cba0c444991d00228f7fd1c
+      internalID: 1028005213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pirateUI_0: -1177990071
+      pirateUI_1: 1376043648
+      pirateUI_10: -773756753
+      pirateUI_11: 17573676
+      pirateUI_12: -552749216
+      pirateUI_13: 1727823695
+      pirateUI_14: -1141828796
+      pirateUI_15: 1061557325
+      pirateUI_16: -1603417262
+      pirateUI_17: -1193327732
+      pirateUI_18: -1083401535
+      pirateUI_19: -1120215762
+      pirateUI_2: -831087173
+      pirateUI_20: 2061091931
+      pirateUI_21: 628805344
+      pirateUI_22: -220182313
+      pirateUI_23: -36995974
+      pirateUI_24: -1252215433
+      pirateUI_25: 2120307437
+      pirateUI_26: -1549164114
+      pirateUI_27: -1928179584
+      pirateUI_28: 1802782707
+      pirateUI_29: -1480896427
+      pirateUI_3: -256933846
+      pirateUI_30: 439175191
+      pirateUI_31: 871293267
+      pirateUI_32: 313677865
+      pirateUI_33: 1398794959
+      pirateUI_34: -862205072
+      pirateUI_35: -280430289
+      pirateUI_36: 298918451
+      pirateUI_37: -529466051
+      pirateUI_38: 1025435482
+      pirateUI_39: 713829918
+      pirateUI_4: -269278950
+      pirateUI_40: 1811310456
+      pirateUI_41: -1933832261
+      pirateUI_42: 1028005213
+      pirateUI_43: 1910616000
+      pirateUI_44: 1491682835
+      pirateUI_45: -655456566
+      pirateUI_5: -42510004
+      pirateUI_6: 453280818
+      pirateUI_7: 547596878
+      pirateUI_8: 1122945797
+      pirateUI_9: -1409350814
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
