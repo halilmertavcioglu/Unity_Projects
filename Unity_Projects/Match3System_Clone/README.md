@@ -14,7 +14,13 @@
 This project is a personal educational clone inspired by the original game. It is developed for learning purposes only and not for commercial use.
 
 ## 🛠🔵 Match 3 Oyununda Kullanılan Teknikler
----
+
+- Singleton Pattern Uygulaması: Oyun durumunun korunması ve oyun mantığı ile arayüz (UI) arasındaki iletişimi kolaylaştıran merkezi yönetim yapısı.
+- Izgara Mantığı ve 2D Koordinat Eşleştirme: Dinamik tahta üzerindeki nesne konumlarını takip etmek, taşımak ve doğrulamak için 2D dizi yönetimi.
+- Özyinelemeli (Recursive) Eşleşme Algoritması: Karmaşık eşleşme desenlerini tespit etmek ve komşu öğeleri gruplamak için özyinelemeli mantık kurgusu.
+- Durum Makinesi (State Machine) Mimarisi: Oyun akışındaki çakışmaları önlemek için farklı aşamaların (Giriş, Takas, Eşleşme, Düşme) birbirinden bağımsız yönetimi.
+- Veri Mimarisi için ScriptableObject Kullanımı: Oyun verilerini (taş türleri, seviye hedefleri) mantıktan ayırarak projenin ölçeklenebilirliğini artırma.
+- Dinamik Tahta Yenileme Mantığı: Boşlukları hesaplayan ve yeni öğelerin doğru sırayla tahtaya dahil olmasını sağlayan özel algoritma.
 
 ## 🎮 Oynanış Videosu
 ---
