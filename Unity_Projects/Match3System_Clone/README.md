@@ -26,7 +26,7 @@ This project is a personal educational clone inspired by the original game. It i
 - Dinamik Tahta Yenileme Mantığı: Boşlukları hesaplayan ve yeni öğelerin doğru sırayla tahtaya dahil olmasını sağlayan özel algoritma.
 
 ## 🎮 Oynanış Videosu
-[You can access the gameplay video via this link (Google Drive).](https://drive.google.com/file/d/1_IFIwuv_DCQCDCIMj33YKgEcWMptU2uv/view?usp=sharing)
+[Oynanış videosuna bu linkten ulaşabilirsiniz (Google Drive).](https://drive.google.com/file/d/1_IFIwuv_DCQCDCIMj33YKgEcWMptU2uv/view?usp=sharing)
 
 ## ⚠️ Not
 Bu proje, orijinal oyundan esinlenerek eğitim amaçlı geliştirilmiş bir klon çalışmadır. Ticari amaç taşımamaktadır.
